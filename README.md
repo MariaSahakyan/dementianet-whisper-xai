@@ -13,7 +13,7 @@ We use **Explainable AI (XAI) methods** such as SHAP and LIME to interpret model
 ## Project Description
 - **Dataset**: DementiaNet (recordings of dementia vs. non-dementia participants)  
 - **Model**: Whisper (Automatic Speech Recognition, ASR)  
-- **XAI**: SHAP, LIME for interpretability of ASR features and predictions  
+- **XAI**: Interpretability of ASR features and predictions  
 - **Goal**: To analyze speech patterns and demonstrate how XAI can provide insights into dementia vs. non-dementia recordings.  
 
 ---
