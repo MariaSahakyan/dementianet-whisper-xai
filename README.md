@@ -6,7 +6,7 @@ This project applies OpenAI’s Whisper model to the DementiaNet dataset (speech
 # DementiaNet Whisper XAI
 
 This project applies **OpenAI Whisper** to the [DementiaNet dataset](https://github.com/shreyasgite/dementianet), which contains speech recordings of people with and without dementia.  
-We use **Explainable AI (XAI) methods** such as SHAP and LIME to interpret model predictions and explore linguistic and acoustic markers relevant to dementia detection.
+We use **Explainable AI (XAI) methods** to interpret model predictions and explore linguistic and acoustic markers relevant to dementia detection.
 
 ---
 
