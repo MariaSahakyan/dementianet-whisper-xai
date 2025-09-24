@@ -3,9 +3,11 @@ Speech analysis on DementiaNet dataset using Whisper ASR and Explainable AI to s
 
 This project applies OpenAI’s Whisper model to the DementiaNet dataset (speech recordings of people with and without dementia) to generate transcriptions and extract features. Explainable AI methods are used to interpret model predictions and highlight linguistic and acoustic markers of dementia. 
 
-# DementiaNet Whisper XAI
+---
 
+# DementiaNet Whisper XAI
 This repository contains a Colab notebook for analyzing the [DementiaNet dataset](https://github.com/shreyasgite/dementianet) dataset, which consists of speech recordings of people with and without dementia.
+
 The project applies automatic speech recognition (ASR) using **Faster-Whisper** to generate transcriptions. Extracted linguistic and acoustic features are used in a classification pipeline.
 To ensure interpretability, we implement a custom local explanation method (inspired by [LIME](https://arxiv.org/pdf/1602.04938)) that highlights which features most strongly influenced predictions for each individual recording.
 ---
