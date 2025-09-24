@@ -26,7 +26,7 @@ To ensure interpretability, we implement a **custom local explanation method** (
 
 ## Notebook
 
-[![Open In Colab](https://colab.research.google.com/drive/1rSY2uVlxYmJrejpTKFCsXdRu5xqcGohf?usp=sharing)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rSY2uVlxYmJrejpTKFCsXdRu5xqcGohf?usp=sharing)  
 
 ---
 
