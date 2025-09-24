@@ -24,12 +24,9 @@ To ensure interpretability, we implement a **custom local explanation method** (
 
 ---
 
-## Notebooks
+## Notebook
 
-- [`XAI_on_ASR_Maria_Sahakyan.ipynb`](XAI_on_ASR_Maria_Sahakyan.ipynb)  
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/dementianet-whisper-xai/blob/main/XAI_on_ASR_Maria_Sahakyan.ipynb)  
-[View in nbviewer](https://nbviewer.org/github/YOUR_USERNAME/dementianet-whisper-xai/blob/main/XAI_on_ASR_Maria_Sahakyan.ipynb)  
+[![Open In Colab](https://colab.research.google.com/drive/1rSY2uVlxYmJrejpTKFCsXdRu5xqcGohf?usp=sharing)  
 
 ---
 
